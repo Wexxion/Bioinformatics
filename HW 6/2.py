@@ -1,4 +1,4 @@
-
+# http://rosalind.info/problems/ba10b/
 
 def get_input():
     with open('in.txt') as file:

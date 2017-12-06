@@ -1,3 +1,6 @@
+# http://rosalind.info/problems/ba10a/
+
+
 def get_input():
     with open('in.txt') as file:
         path = file.readline().strip()

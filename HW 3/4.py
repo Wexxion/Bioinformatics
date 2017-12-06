@@ -1,3 +1,6 @@
+# http://rosalind.info/problems/ba3d/
+
+
 def build_graph(edges):
     graph = {}
 

@@ -1,5 +1,7 @@
+# http://rosalind.info/problems/long/
+
+
 import re
-import math
 
 rg = re.compile(r'>Rosalind_\d{4}\n([A-Z\n]*)')
 

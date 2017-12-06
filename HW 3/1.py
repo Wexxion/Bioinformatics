@@ -1,3 +1,5 @@
+# http://rosalind.info/problems/ba3b/
+
 data = []
 
 for line in open("in.txt"):

@@ -1,3 +1,6 @@
+# http://rosalind.info/problems/ba3e/
+
+
 with open('in.txt', 'r') as f:
     a = f.read().split('\n')
 graph = {}

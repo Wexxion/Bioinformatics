@@ -1,3 +1,5 @@
+# http://rosalind.info/problems/ba3j/
+
 with open('in.txt', 'r') as f:
     a = f.read().split('\n')
 k = int(a[0].split()[0])
